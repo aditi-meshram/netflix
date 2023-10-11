@@ -1,3 +1,3 @@
 # netflix
 
-Netflix home page using HTML & CSS
+Netflix home page clone using HTML & CSS
